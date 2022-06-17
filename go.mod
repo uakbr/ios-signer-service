@@ -9,7 +9,7 @@ require (
 	github.com/eventials/go-tus v0.0.0-20211022131811-252c8454f2dc
 	github.com/google/go-github/v33 v33.0.0
 	github.com/google/uuid v1.3.0
-	github.com/knadh/koanf v1.3.3
+	github.com/knadh/koanf v1.4.2
 	github.com/labstack/echo/v4 v4.6.1
 	github.com/labstack/gommon v0.3.1
 	github.com/natefinch/atomic v1.0.1
@@ -21,7 +21,7 @@ require (
 	go.uber.org/atomic v1.9.0
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
 	golang.org/x/oauth2 v0.0.0-20211005180243-6b3c2da341f1
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	software.sslmate.com/src/go-pkcs12 v0.0.0-20210415151418-c5206de65a78
 )
 
@@ -53,5 +53,4 @@ require (
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
-	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
